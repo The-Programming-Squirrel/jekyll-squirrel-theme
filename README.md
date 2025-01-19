@@ -11,7 +11,7 @@ TODO: Delete this and the text above, and describe your gem
 Add this line to your Jekyll site's `Gemfile`:
 
 ```ruby
-gem "squirrel-theme"
+gem "jekyll-squirrel-theme"
 ```
 
 And add this line to your Jekyll site's `_config.yml`:
